@@ -1,0 +1,11 @@
+[
+  {
+    "Id": "ad0eec9e-aec8-4793-bf21-58e0270dbc6a",
+    "Code": "KP001",
+    "Name": "Kevin Perez",
+    "Email": "kp852994@gmail.com",
+    "Password": "kevin123",
+    "State": 1,
+    "RolName": "Admin"
+  }
+]

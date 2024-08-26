@@ -1,0 +1,24 @@
+[
+  {
+    "Id": "57f01d38-4ce7-41de-b199-6cb87af74b85",
+    "Title": "DocumentacionAPI",
+    "Description": "Descripcion de nueva tarea API",
+    "DueDate": "01/09/2024",
+    "Priority": "Standar",
+    "AssignedTo": "KP001",
+    "Status": "Inactivo",
+    "CreatedDate": "2024-08-24T23:28:02.4566649-06:00",
+    "UpdatedDate": "2024-08-26T12:42:47.4227701-06:00"
+  },
+  {
+    "Id": "92de4ed0-e447-44f8-8a64-87e21ea7b2f9",
+    "Title": "Tabla de usuarios",
+    "Description": "Descripcion de nueva tarea2",
+    "DueDate": "25/08/2024",
+    "Priority": "URGENTE",
+    "AssignedTo": "KP001",
+    "Status": "Activo",
+    "CreatedDate": "2024-08-24T23:29:20.7811921-06:00",
+    "UpdatedDate": "2024-08-24T23:29:20.7811921-06:00"
+  }
+]
