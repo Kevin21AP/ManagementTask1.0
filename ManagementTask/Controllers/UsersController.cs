@@ -73,7 +73,7 @@ namespace GestionTareaAPI.Controllers
 
                     if (result == "success")
                     {
-                        result = "Usuario Actualizado Correctamente";
+                        result = "Usuario insertado Correctamente";
                         return Request.CreateResponse(HttpStatusCode.OK, result);
                     }
                     else

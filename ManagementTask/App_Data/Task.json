@@ -16,9 +16,20 @@
     "Description": "Descripcion de nueva tarea2",
     "DueDate": "25/08/2024",
     "Priority": "URGENTE",
-    "AssignedTo": "KP001",
+    "AssignedTo": "MC001",
     "Status": "Activo",
     "CreatedDate": "2024-08-24T23:29:20.7811921-06:00",
     "UpdatedDate": "2024-08-24T23:29:20.7811921-06:00"
+  },
+  {
+    "Id": "1a48511f-a679-41f7-b431-e314d8478ce6",
+    "Title": "TEASTEAR APP",
+    "Description": "testear app android",
+    "DueDate": "31/08/2024",
+    "Priority": "SIN PRIORIDAD",
+    "AssignedTo": "MC001",
+    "Status": "Activo",
+    "CreatedDate": "2024-08-26T23:13:51.923728-06:00",
+    "UpdatedDate": "2024-08-26T23:13:51.923728-06:00"
   }
 ]

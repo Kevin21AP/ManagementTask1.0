@@ -7,5 +7,32 @@
     "Password": "kevin123",
     "State": 1,
     "RolName": "Admin"
+  },
+  {
+    "Id": "b6cba285-3c1a-43fa-90c2-a4b958cdff22",
+    "Code": "MC001",
+    "Name": "Mariana Chavez",
+    "Email": "mc@gmail.com",
+    "Password": "mariama123",
+    "State": 1,
+    "RolName": "Admin"
+  },
+  {
+    "Id": "43784382-ef8b-4ebc-bac2-09df7738b9da",
+    "Code": "MR001",
+    "Name": "Maximo Ramos",
+    "Email": "maximo@gmail.com",
+    "Password": "maximo123",
+    "State": 1,
+    "RolName": "Admin"
+  },
+  {
+    "Id": "96a0bd93-98fc-4aab-8f34-3e302872d788",
+    "Code": "PR001",
+    "Name": "TEST TEST",
+    "Email": "test@gmail.com",
+    "Password": "test123",
+    "State": 1,
+    "RolName": "Employee"
   }
 ]
